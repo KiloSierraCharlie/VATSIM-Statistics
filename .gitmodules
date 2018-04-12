@@ -1,0 +1,3 @@
+[submodule "DataHandler"]
+	path = DataHandler
+	url = https://github.com/KiloSierraCharlie/VATSIM-Data-Handler.git
